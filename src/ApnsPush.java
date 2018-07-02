@@ -8,7 +8,7 @@ import com.notnoop.apns.ApnsService;
 import com.notnoop.apns.ApnsServiceBuilder;
 
 public class ApnsPush {
-    private static String DEVICE_TOKEN = "00b17813e14cd334eafc76f676ce744dd2ec96e10985fa975f946f247fe927b7";
+    private static String DEVICE_TOKEN = "your device token";
     private static String PATH_TO_P12_CERT = "certitifcate p12 file";
     private static String CERT_PASSWORD = "password";
 
